@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toseef-Ahmad
 - 👀 I’m interested in Programminig and like to invent new Things
-- 🌱 I’m currently learning **GIT && GITHUB**
-- 💞️ I’m looking to collaborate on Any Project Based on ReactJS or Javascript
+- 🌱 I’m currently learning **LLM**
+- 💞️ I’m looking to collaborate on Any Project Based on any Programming Language 🤗
 - 📫 How to reach me: ahmadtouseef946@gmail.com
 
 <!---
